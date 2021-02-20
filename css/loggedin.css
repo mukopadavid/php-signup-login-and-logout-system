@@ -1,0 +1,11 @@
+@media screen and (max-width: 480px) {
+    .title {
+        font-size: 25px;
+    }
+    body {
+        background-color: blue;
+    }
+    .container {
+        margin-top: 12px;
+    }
+}
